@@ -1,0 +1,6 @@
+name: PremiumJoinMessage
+main: uk.co.benkeoghcgd.api.PremiumJoinMessage.PremiumJoinMessage
+version: ${project.version}
+api-version: 1.18
+depend:
+  - AxiusCore
